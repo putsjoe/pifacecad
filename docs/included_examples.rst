@@ -52,8 +52,8 @@ guesses and, well, you know the rest.
 
 Unzip and run hangman::
 
-    $ gunzip /usr/share/doc/python3-pifacecad/examples/radio.py.gz
-    $ python3 /usr/share/doc/python3-pifacecad/examples/radio.py
+    $ gunzip /usr/share/doc/python3-pifacecad/examples/hangman.py.gz
+    $ python3 /usr/share/doc/python3-pifacecad/examples/hangman.py
 
 ================ =========================
 Button           Function
